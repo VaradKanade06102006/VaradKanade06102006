@@ -1,0 +1,27 @@
+.navheader{
+    display: inline-flex;
+    justify-content: space-around;
+    height: 100px;
+    width:98vw;
+}
+.navheader img{
+    padding: 10px 60px;
+    width: 80px;
+    height: 64px;
+}
+.navlinks{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    font-weight: 500;
+    font-size: 14px;
+    color: #484f51, 100%;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+.navlinks a{
+    padding: 0px 28px;
+    color:black;
+    text-decoration: none;
+}
